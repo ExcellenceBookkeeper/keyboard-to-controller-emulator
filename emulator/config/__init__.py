@@ -1,0 +1,1 @@
+"""Config schema, defaults, and migration helpers."""
