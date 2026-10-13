@@ -1,0 +1,1 @@
+"""Entrypoints and lifecycle wiring."""
