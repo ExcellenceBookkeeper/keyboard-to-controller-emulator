@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+*.pyd
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build artifacts from the C++ input-hook shim
+native/build/
+native/**/*.obj
+native/**/*.lib
+native/**/*.dll
+native/**/*.exp
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Runtime / user state
+*.log
+logs/
+config/user_profile.toml
+config/*.local.toml
+mappings/imported/
+recordings/*.kbm
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
