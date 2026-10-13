@@ -1,0 +1,1 @@
+"""Thin input handlers — one concern per module."""
